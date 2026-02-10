@@ -3,7 +3,7 @@ name: skill-helper
 description: "Helps the development agent find the best skills for the task."
 ---
 
-Refer to [CATALOG.md](CATALOG.md) for more details.
+Refer to [CATALOG.md](antigravity-awesome-skills/CATALOG.md) for more details.
 
 ## 🎯 Essentials & Core
 
